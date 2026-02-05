@@ -1,1 +1,1 @@
-# gitdemo
+Demostration of all git commands
